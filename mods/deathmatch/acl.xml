@@ -33,7 +33,7 @@
         <acl name="SuperModerator"></acl>
         <acl name="Admin"></acl>
         <acl name="RPC"></acl>
-        <object name="user.Console"></object>
+        <object name="alpha city"></object>
     </group>
     <group name="Scripter">
         <acl name="Scripter"></acl>
